@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Ronit Shah",
+    "occupation": "Embedded Software Engineer",
+    "description": "A recent Computer Science graduate from Deakin University with Distinction",
+    "image": "me.jpeg",
+    "bio": "“Learning is a stepping  stone to success. Keep learning and Keep Growing.“ \\n\\n I have an excellent work ethic and an ability to learn. I have good information about web development (HTML, CSS), Data Analysis, Machine Learning, and Python. Enthusiastic to learn and perform new tasks. Aiming to utilize analytical ability to achieve the company’s goals.\\n\\n Discussing opportunities over a cup of coffee is never a bad idea. Feel free to reach out if I can be of any help or if you feel like we could collaborate on something innovative.",
+    "contactmessage": "Get in touch with me to have a chat.",
+    "email": "ronitshah7399@gmail.com",
+    "phone": "04 9796 0000",
+    "address": {
+      "city": "Melbourne",
+      "state": "VIC",
+      "zip": "3000"
+    },
+    "website": "",
+    "resumedownload": "https://github.com/Ronit7399/Resume/blob/15b9b0e600ab8d9f843b270c37065e2422f22216/Resume%20final.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/rcoolrox",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ronit-shah-0a1421181/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ronit7399/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "TECHNOLOGY STACK",
+    "education": [
+      {
+        "school": "Deakin University",
+        "degree": "Bachelor of Computer Science",
+        "graduated": "July 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Caught In The Act",
+        "title": "Embedded Software Engineer ",
+        "years": "November 2020 - Present",
+        "description": "Melbourne, VIC"
+      },
+      {
+        "company": "Good News Lutheran College",
+        "title": "Information Technology Intern",
+        "years": "November 2019 - December 2019",
+        "description": "Melbourne, VIC"
+      },
+	  {
+        "company": "Jemestry Info Solutions",
+        "title": "Assistant Web Developer",
+        "years": "April 2017 - September 2017",
+        "description": "India"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML | CSS",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJS | JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Python Flask",
+        "level": "100%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "80%"
+      },
+      {
+        "name": "Shell Scripting",
+        "level": "80%"
+      },
+      {
+        "name": "MS SQL | MongoDB",
+        "level": "90%"
+      },
+      {
+        "name": "Linux Operating System",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon clone built with React.js frontend framework and Firebase backend services",
+        "image": "amazon-clone.jpg",
+        "url": "https://clone-2f0ee.web.app/"
+      },
+      {
+        "title": "Weather Application",
+        "category": "Web application for visualising weather patterns, built with python Dash frontend framework for World solar car challenge",
+        "image": "weather-app.jpg",
+        "url": "https://www.youtube.com/watch?v=79HcDATtrxk&t=9s"
+      },
+      {
+        "title": "Chronic Kidney Diseases",
+        "category": "Apply Machine Learning Techniques and report the results",
+        "image": "machine-learning.jpg",
+        "url": "https://github.com/Ronit7399/Machine-Learning-Challenge"
+      },
+      {
+        "title": "Vlad App",
+        "category": "A Multi-Functional music themed app",
+        "image": "vlad.png",
+        "url": "https://youtu.be/0XqYQ4zjGDk"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
